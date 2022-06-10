@@ -68,7 +68,7 @@ Teşekkürler <3
 
 # Hesaplar:
 
-[Twitter](https://twitter.com/Ruesandora0)
+[Twitter](https://twitter.com/mehmetkoltigin)
 
 [Forum](https://forum.rues.info/index.php)
 
