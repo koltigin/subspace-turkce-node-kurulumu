@@ -62,20 +62,3 @@ rm -rf ~/.local/share/subspace*
 rm -rf /etc/systemd/system/subspaced*
 rm -rf /usr/local/bin/subspace*
 ```
-
-Teşekkürler <3
-
-
-# Hesaplar:
-
-[Twitter](https://twitter.com/mehmetkoltigin)
-
-[Forum](https://forum.rues.info/index.php)
-
-[Telegram Announcement](https://t.me/RuesAnnouncement)
-
-[Telegram Chat](https://t.me/RuesChat)
-
-[Telegram Node](https://t.me/RuesNode)
-
-[Telegram Node Chat](https://t.me/RuesNodeChat)
